@@ -1,6 +1,6 @@
 # employee_management_system
 
 
-Frontend- ReactJS and tailwind CSS
+Frontend- ReactJS, NextJS and tailwind CSS
 
 Backend- Springboot
